@@ -1,1 +1,1 @@
-# Retail-sales-prediction
+# RETAIL-SALES-PREDICTION
