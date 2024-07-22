@@ -16,6 +16,7 @@ Handling Null Values: Notably, the 'MarkDown' columns present a challenge with o
 
 Feature Improvement: Emphasizing enhanced modeling effectiveness, we concentrate on refining the dataset. This involves creating new features to extract deeper insights and enhance overall dataset efficiency. 
 
-Deep Learning Overview
+Deep Learning Overview:
+
 Deep learning is a specialized branch of machine learning that focuses on neural networks with many layers to automatically learn representations of data through multiple levels of abstraction. It has revolutionized fields such as computer vision, natural language processing, and speech recognition by enabling systems to perform tasks with high accuracy and efficiency.
 
